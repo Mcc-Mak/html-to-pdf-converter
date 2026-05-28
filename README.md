@@ -1,2 +1,1 @@
-# html-to-pdf-converter
-HTML to PDF
+# HTML to PDF
