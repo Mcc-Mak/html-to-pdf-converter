@@ -1,5 +1,7 @@
 # 📄 HTML 轉 PDF 工具 — 專案說明
 
+**線上體驗**：https://mcc-mak.github.io/html-to-pdf-converter/
+
 ## 概述
 
 這是一個純前端、零依賴的網頁工具，讓使用者編寫或貼上 HTML 程式碼，透過**瀏覽器原生列印機制**將內容轉換為高品質 PDF 檔案。  
