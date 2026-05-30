@@ -1,6 +1,8 @@
 # 📄 HTML 轉 PDF 工具 — 專案說明
 
 **線上體驗**：https://mcc-mak.github.io/html-to-pdf-converter/
+<br/><br/>
+**特別情況（Markdown）**：https://markdownviewer.org/
 
 ## 概述
 
